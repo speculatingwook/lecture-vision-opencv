@@ -11,7 +11,7 @@ int homework1(void){
     cout << "Hello OpenCV " << CV_VERSION << endl;
 
     Mat img;
-    img = imread("/Users/yoonbeongwook/CLionProjects/smart_vehicle_vision/Lenna.bmp");
+    img = imread("/Users/yoonbeongwook/CLionProjects/smart_vehicle_vision/images/Lenna.bmp");
 
     if (img.empty()) {
         cerr << "Image load failed!" << endl;
