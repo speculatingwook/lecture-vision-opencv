@@ -1,0 +1,8 @@
+# ninja log v5
+32	437	1694491635027491630	CMakeFiles/smart_vehicle_vision.dir/homework1/homework1.cpp.o	79fab369e870a1ec
+17	1611	1694661294739880562	CMakeFiles/smart_vehicle_vision.dir/main.cpp.o	faf8da15ecba45fa
+1	106	1695092684132646351	build.ninja	93ad8fcfe9fafec6
+1611	1675	1694661294809447700	smart_vehicle_vision	634df24e5a7c1bfb
+38	491	1695092871923533681	CMakeFiles/smart_vehicle_vision.dir/main.cpp.o	faf8da15ecba45fa
+40	1585	1695092873017467892	CMakeFiles/smart_vehicle_vision.dir/homework1/homework1.cpp.o	79fab369e870a1ec
+1585	1906	1695092873344931243	smart_vehicle_vision	125fc0d5d3d77e2f

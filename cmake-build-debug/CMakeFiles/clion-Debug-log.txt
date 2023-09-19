@@ -1,0 +1,4 @@
+"/Users/yoonbeongwook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/yoonbeongwook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/yoonbeongwook/CLionProjects/smart_vehicle_vision -B /Users/yoonbeongwook/CLionProjects/smart_vehicle_vision/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/yoonbeongwook/CLionProjects/smart_vehicle_vision/cmake-build-debug
